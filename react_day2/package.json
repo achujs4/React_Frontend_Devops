@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage":"https://achujs4.github.io/React_Frontend_Devops",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
