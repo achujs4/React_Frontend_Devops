@@ -16,7 +16,7 @@ const Home = () => {
             <TableRow>
                 <TableCell>Name</TableCell>
                 <TableCell>Courses</TableCell>
-                <TableCell>Place</TableCell>
+                
                
             </TableRow>
         </TableHead>
